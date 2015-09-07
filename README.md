@@ -8,6 +8,7 @@
   ##### ->name VARCHAR(255) NOT NULL,
   ##### ->designation VARCHAR(255) NOT NULL
 
-3.now run the employee.php
+3.now run the employee.php it will be looks like the image which is shown below
 
 ![alt tag](http://i.imgur.com/MHq9bbN.jpg)
+
