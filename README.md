@@ -9,3 +9,5 @@
   ##### ->designation VARCHAR(255) NOT NULL
 
 3.now run the employee.php
+
+![alt tag](http://i.imgur.com/MHq9bbN.jpg)
