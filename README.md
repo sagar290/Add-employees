@@ -1,9 +1,9 @@
 # Add-employees
-Database information
-mysql> CREATE DATABASE employees;
+### Database information
 
-# Next, create a table to hold the employee records:
-table name employees
+1.mysql> CREATE DATABASE employees;
+
+2. Next, create a table to hold the employee records:table name employees
 Database changed
 mysql> CREATE TABLE employees  column(
 -> id INT(4) NOT NULL AUTO_INCREMENT PRIMARY KEY,
