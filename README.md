@@ -7,6 +7,9 @@
 ⋅⋅⋅id INT(4) NOT NULL AUTO_INCREMENT PRIMARY KEY,
 ⋅⋅⋅name VARCHAR(255) NOT NULL,
 ⋅⋅⋅designation VARCHAR(255) NOT NULL
+| id        | name           | designation  |
+| ------------- |:-------------:| -----:|
+
 
 
 3.now run the employee.php
